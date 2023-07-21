@@ -67,5 +67,6 @@ h3{
   iframe{
     width: 400px;
     height: 250px;
+    float: left;
   }
 }
