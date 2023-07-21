@@ -6,7 +6,7 @@ export default function page() {
       <h1>Side Runner!</h1>
       <div id = "card">
         
-        <iframe src = "https://scratch.mit.edu/projects/875916283/embed" allowTransparency="true" width = "800" height = "450" frameBorder="0" scrolling="no" allowfullscreen></iframe>
+        <iframe src = "https://scratch.mit.edu/projects/875916283/embed" allowTransparency="true" frameBorder="0" scrolling="no" allowfullscreen></iframe>
         <h3>Press Space</h3>
       </div>
       <nav>
