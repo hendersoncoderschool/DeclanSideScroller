@@ -69,4 +69,7 @@ h3{
     height: 250px;
     float: left;
   }
+  #card{
+    width: 100%;
+  }
 }
