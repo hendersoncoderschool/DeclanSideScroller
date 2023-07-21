@@ -1,6 +1,6 @@
 import './globals.css'
 
-export default function App() {
+export default function page() {
   return (
     <main>
       <h1>Side Runner!</h1>
